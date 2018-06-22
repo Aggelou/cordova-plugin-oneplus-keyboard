@@ -1,0 +1,38 @@
+{
+  "name": "cordova-plugin-oneplus-keyboard",
+  "version": "1.5.8",
+  "description": "One Keyboard",
+  "cordova": {
+    "id": "cordova-plugin-oneplus-keyboard",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softicious/cordova-plugin-oneplus-keyboard.git"
+  },
+  "keywords": [
+    "Keyboard",
+    "Native Keyboard",
+    "Messenger",
+    "Messenger Keyboard",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Marius Strugaru <soticious@gmail.com> (https://github.com/Softicious)",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://softicious.com"
+  },
+  "homepage": "https://softicious.com",
+  "dependencies": {}
+}
