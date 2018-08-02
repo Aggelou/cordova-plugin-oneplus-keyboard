@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-oneplus-keyboard",
-  "version": "1.5.8",
+  "version": "1.6.0",
   "description": "One Keyboard",
   "cordova": {
     "id": "cordova-plugin-oneplus-keyboard",
